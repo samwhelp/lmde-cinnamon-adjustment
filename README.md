@@ -25,6 +25,7 @@
 | ------ |
 | [Lmde Cinnamon Config](https://github.com/samwhelp/lmde-cinnamon-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/lmde-cinnamon-adjustment/tree/main/prototype/main/tool-config/part) |
+| [lmde-cinnamon-adjustment](https://github.com/samwhelp/lmde-cinnamon-adjustment/tree/main/demo/scripts/main/cinnamon-adjustment) |
 
 
 | Style Management |
