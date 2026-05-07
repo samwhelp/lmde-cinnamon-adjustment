@@ -39,9 +39,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
-| [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
+| [Debian Cinnamon Adjustment](https://samwhelp.github.io/debian-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/debian-cinnamon-adjustment) |
+| [Ubuntu Cinnamon Adjustment](https://samwhelp.github.io/ubuntu-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-cinnamon-adjustment) |
 | [LinuxMint Cinnamon Adjustment](https://samwhelp.github.io/linuxmint-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-cinnamon-adjustment) |
+| [Archlinux Cinnamon Adjustment](https://samwhelp.github.io/archlinux-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-cinnamon-adjustment) |
+| [Voidlinux Cinnamon Adjustment](https://samwhelp.github.io/archlinux-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-cinnamon-adjustment) |
 
 
 
