@@ -40,6 +40,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Cinnamon Adjustment](https://samwhelp.github.io/cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/cinnamon-adjustment) |
 | [Debian Cinnamon Adjustment](https://samwhelp.github.io/debian-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/debian-cinnamon-adjustment) |
 | [Ubuntu Cinnamon Adjustment](https://samwhelp.github.io/ubuntu-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-cinnamon-adjustment) |
 | [LinuxMint Cinnamon Adjustment](https://samwhelp.github.io/linuxmint-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-cinnamon-adjustment) |
